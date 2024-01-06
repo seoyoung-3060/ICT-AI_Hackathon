@@ -5,7 +5,7 @@ CJ 올리브 네트웍스에서 진행한 AI 해커톤
 
 
 ### 전체적인 흐름도
-![그림1](https://github.com/seoyoung-3060/ICT-AI_Hackathon/assets/79852630/1000da71-e303-4c4c-84ae-dcf65e036e16)
+![그림1](https://github.com/seoyoung-3060/ICT-AI_Hackathon/assets/79852630/2817ff3d-79e6-45e7-9166-145b621ac09f)
 
 
 ### 설명
